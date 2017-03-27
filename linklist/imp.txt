@@ -1,4 +1,4 @@
 run code using gdb
    $g++ -g string_palindrome.cpp  -o out
-   $gsb out
+   $gdb out
    gdb>>r
